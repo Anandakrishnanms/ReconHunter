@@ -56,6 +56,16 @@ Handled automatically by the script:
 2. **Enter your target when prompted:**  
    ```bash
    🎯Enter target IP/domain: example.com
+## 🤝 Contributing
 
+Contact me via [LinkedIn](https://www.linkedin.com/in/anandakrishnan-ms-9a66b6375) for collaborations.  
+
+---
+
+## ⭐ Star the Repository
+
+If you find ShadowCrypt useful, please **⭐ star the repository** to support development.  
+
+🦾 **Unleash ShadowCrypt, explore responsibly!**
     
    
