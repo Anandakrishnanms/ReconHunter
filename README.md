@@ -54,7 +54,8 @@ Handled automatically by the script:
    ./reconhunter.sh
    ```
 2. **Enter your target when prompted:**  
-   ```
-  🎯 Enter target IP/domain: example.com
-   ```
+   ```bash
+   🎯Enter target IP/domain: example.com
+
+    
    
